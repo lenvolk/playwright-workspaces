@@ -2,8 +2,8 @@
 title: Use remote browsers for local or private applications
 description: Learn how to run end-to-end for locally deployed applications with Playwright Workspaces. Use cloud-hosted browsers to test apps on localhost or private networks.
 ms.topic: how-to
-ms.date: 10/04/2023
-ms.custom: playwright-workspaces-preview, ignite-2024
+ms.date: 07/01/2025
+ms.custom: playwright-workspaces-preview
 zone_pivot_group_filename: playwright-workspaces/zone-pivots-groups.json
 zone_pivot_groups: playwright-workspaces
 ---

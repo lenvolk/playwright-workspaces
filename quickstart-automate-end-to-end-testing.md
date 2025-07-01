@@ -2,8 +2,8 @@
 title: 'Quickstart: Continuous end-to-end testing'
 description: In this quickstart, you learn how to run your Playwright tests at scale in your CI pipeline with Playwright Workspaces. Continuously validate that your web app runs correctly across browsers and operating systems.
 ms.topic: quickstart
-ms.date: 10/04/2023
-ms.custom: playwright-workspaces-preview, build-2024, ignite-2024
+ms.date: 07/01/2025
+ms.custom: playwright-workspaces-preview
 zone_pivot_group_filename: playwright-workspaces/zone-pivots-groups.json
 zone_pivot_groups: playwright-workspaces
 ---

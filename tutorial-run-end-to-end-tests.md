@@ -1,11 +1,11 @@
 ---
 title: 'Tutorial: Run end-to-end tests with Playwright Workspaces'
 description: 'In this tutorial, you learn how to integrate Playwright Workspaces with a Playwright test suite and run Playwright tests on cloud hosted browsers.'
-author: vvs11
+author: johnsta
 ms.author: johnsta
-ms.service: playwright-testing
+ms.service: playwright-workspaces-preview
 ms.topic: tutorial
-ms.date: 12/18/2024
+ms.date: 07/01/2025
 
 #customer intent: As a Playwright user, I want to learn how to integrate my Playwright test suite with Playwright Workspaces so that I can run my test suite faster using the cloud-hosted browsers.
 

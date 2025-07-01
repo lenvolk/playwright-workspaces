@@ -2,7 +2,7 @@
 title: Optimal test suite configuration
 description: Learn about the factors that affect test completion time in Playwright Workspaces. Get practical steps to determine the optimal Playwright test project configuration.
 ms.topic: conceptual
-ms.date: 10/04/2023
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 
