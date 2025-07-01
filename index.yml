@@ -6,12 +6,12 @@ summary: Learn how to run end-to-end tests for your web apps at scale with Playw
 metadata:
   title: Playwright Workspaces documentation
   description: Learn how to run end-to-end tests for your web apps at scale with Playwright Workspaces. Run Playwright tests with high parallelization across different operating system and browser combinations simultaneously. Tutorials, code examples, GitHub Actions, Azure Pipelines, and more.
-  ms.service: playwright-testing
+  ms.service: playwright-workspaces-preview
   ms.topic: landing-page
 
   ms.author: johnsta
-  author: vvs11
-  ms.date: 08/23/2023
+  author: johnsta
+  ms.date: 07/01/2025
   ms.custom: playwright-workspaces-preview
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new

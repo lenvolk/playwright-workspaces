@@ -2,7 +2,7 @@
 title: Optimize regional latency
 description: Learn how to optimize regional latency for a Playwright Workspaces Preview workspace. Choose to run tests on remote browsers in an Azure region nearest to you, or in a fixed region.
 ms.topic: how-to
-ms.date: 10/04/2023
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 

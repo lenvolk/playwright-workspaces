@@ -2,7 +2,7 @@
 title: Manage workspace access
 description: Learn how to manage access to a Playwright workspace by using Azure role-based access control (Azure RBAC). Grant user permissions for a workspace by assigning roles.
 ms.topic: how-to
-ms.date: 10/04/2023
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 

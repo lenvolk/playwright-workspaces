@@ -2,7 +2,7 @@
 title: Limits and configuration reference guide
 description: 'Service limitations, quotas, and configuration settings for running Playwright testing with Playwright Workspaces.'
 ms.topic: reference
-ms.date: 02/08/2024
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 

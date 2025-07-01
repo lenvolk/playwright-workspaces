@@ -2,8 +2,8 @@
 title: 'Quickstart: Run Playwright tests at scale'
 description: 'This quickstart shows how to run your Playwright tests with highly parallel cloud browsers using Playwright Workspaces. The cloud-hosted browsers support multiple operating systems and all modern browsers.'
 ms.topic: quickstart
-ms.date: 10/04/2023
-ms.custom: playwright-workspaces-preview, build-2024, ignite-2024
+ms.date: 07/01/2025
+ms.custom: playwright-workspaces-preview, build-2025
 zone_pivot_group_filename: playwright-workspaces/zone-pivots-groups.json
 zone_pivot_groups: playwright-workspaces
 ---

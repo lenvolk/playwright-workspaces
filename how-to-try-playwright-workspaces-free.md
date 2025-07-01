@@ -2,7 +2,7 @@
 title: Playwright Workspaces free trial
 description: Learn how to get started for free with Playwright Workspaces free trial.
 ms.topic: how-to
-ms.date: 10/04/2023
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 

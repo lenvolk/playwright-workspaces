@@ -2,7 +2,7 @@
 title: Configure visual comparisons
 description: Learn how to configure visual comparisons with Playwright Workspaces.
 ms.topic: how-to
-ms.date: 10/04/2023
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 

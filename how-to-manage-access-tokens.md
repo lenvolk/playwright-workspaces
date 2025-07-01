@@ -2,7 +2,7 @@
 title: Manage workspace access tokens
 description: Learn how to create & manage access tokens to authenticate requests to Playwright Workspaces. Access tokens provide secure access to run tests on the service, and to the Playwright Workspaces API.
 ms.topic: how-to
-ms.date: 10/04/2023
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 

@@ -2,8 +2,8 @@
 title: Playwright Workspaces configuration file options
 description: Learn how to use options available in configuration file with Playwright Workspaces
 ms.topic: how-to
-ms.date: 09/07/2024
-ms.custom: playwright-workspaces-preview, ignite-2024
+ms.date: 07/01/2025
+ms.custom: playwright-workspaces-preview
 zone_pivot_group_filename: playwright-workspaces/zone-pivots-groups.json
 zone_pivot_groups: playwright-workspaces
 ---

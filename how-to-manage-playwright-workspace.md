@@ -2,7 +2,7 @@
 title: Manage workspaces
 description: Learn how to create and manage Playwright Workspaces using the Azure portal.
 ms.topic: how-to
-ms.date: 10/04/2023
+ms.date: 07/01/2025
 ms.custom: playwright-workspaces-preview
 ---
 

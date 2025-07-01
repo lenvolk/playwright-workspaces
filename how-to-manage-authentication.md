@@ -2,8 +2,8 @@
 title: Playwright Workspaces authentication
 description: Learn how to manage authentication and authorization for Playwright Workspaces preview
 ms.topic: how-to
-ms.date: 09/07/2024
-ms.custom: playwright-workspaces-preview, ignite-2024
+ms.date: 07/01/2025
+ms.custom: playwright-workspaces-preview
 zone_pivot_group_filename: playwright-workspaces/zone-pivots-groups.json
 zone_pivot_groups: playwright-workspaces
 ---
