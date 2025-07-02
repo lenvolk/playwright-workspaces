@@ -109,9 +109,9 @@ Perform the following steps to manage permissions with a custom role:
 
 1. Follow these steps to [create an Azure custom role](https://learn.microsoft.com/azure/role-based-access-control/custom-roles-portal).
 
-1. Select **Add permissions**, and enter *Playwright* in the search box, and then select **Microsoft.AzurePlaywrightService**.
+1. Select **Add permissions**, and enter *Playwright* in the search box, and then select **Microsoft.LoadTestService**.
 
-1. Select the `microsoft.playwrightservice/accounts/write` permission, and then select **Add**.
+1. Select the required permission like `Microsoft.LoadTestService/PlaywrightWorkspaces/write`, and then select **Add**.
 
     ![Screenshot that shows the list of permissions for adding to the custom role in the Azure portal, highlighting the permission record to add.](media/how-to-manage-workspace-access/custom-role-permissions.png)
 
