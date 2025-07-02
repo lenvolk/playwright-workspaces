@@ -45,7 +45,7 @@ While the service is in preview, the following limits apply on a per-subscriptio
 
 ## Request quota increases
 
-To raise the resource quota above the default limit for your subscription, [create an issue in the Playwright Workspaces GitHub repository](https://github.com/microsoft/playwright-testing-service/issues/new/choose).
+To raise the resource quota above the default limit for your subscription, [create an issue in the Playwright Workspaces GitHub repository](https://aka.ms/pww/feedback).
 
 ## Outbound IP addresses
 
