@@ -1,0 +1,15 @@
+{
+  "name": "playwright-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@azure/identity": "^4.10.2",
+    "@azure/playwright": "beta",
+    "@playwright/test": "^1.53.0"
+  }
+}
