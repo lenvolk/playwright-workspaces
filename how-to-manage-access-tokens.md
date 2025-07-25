@@ -69,25 +69,7 @@ Create an access token to authorize access to your Playwright workspace, and to 
 
 When you use an access token, the service checks the Azure RBAC role of the user that is associated with the access token to verify that the required permissions are granted. For example, if you have the Reader role, you can't run Playwright tests but you can view the test results. When there are role assignment changes, the service checks the permissions at the time you perform the action.
 
-To create a new workspace access token, you can use one of the following methods:
-
-**Method 1: From the Get Started page**
-
-1. Sign in to the [Azure portal](https://portal.azure.com) with your Azure account and navigate to your workspace.
-
-1. Go to the **Get Started** page.
-
-1. Select **Generate token**. The token will be generated immediately.
-
-    ![Screenshot that shows the Get Started page with the Generate token button.](./media/how-to-manage-access-tokens/playwright-workspaces-generate-access-token-get-started.png)
-
-1. Copy the access token for the workspace.
-
-    You can save the access token in a CI/CD secrets store or use it in an environment variable for running tests interactively.
-
-    ![Screenshot that shows how to copy the generated access token in the Azure portal.](./media/how-to-manage-access-tokens/playwright-workspaces-copy-access-token-get-started.png)
-
-**Method 2: From Access Management settings**
+To create a new workspace access token:
 
 1. Sign in to the [Azure portal](https://portal.azure.com) with your Azure account and navigate to your workspace.
 
@@ -107,10 +89,8 @@ To create a new workspace access token, you can use one of the following methods
 
     ![Screenshot that shows how to copy the generated access token in the Azure portal.](./media/how-to-manage-access-tokens/playwright-workspaces-copy-access-token.png)
     
-    
-    
-> [!IMPORTANT]
-> You can only access the token value immediately after you've created it. You can't access the token value anymore at a later time.
+    > [!IMPORTANT]
+    > You can only access the token value immediately after you've created it. You can't access the token value anymore at a later time.
 
 > [!NOTE]
 > The number of access tokens per user and per workspace is limited. For more information, see the [Playwright Workspaces limits](./resource-limits-quotas-capacity.md).
