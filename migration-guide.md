@@ -1,6 +1,6 @@
 # Migration Guide from Microsoft Playwright Testing to Playwright Workspaces
 
-This comprehensive guide helps you migrate from Microsoft Playwright Testing to Playwright Workspaces. It lays out common migration scenarios and provides step-by-step instructions for each to minimize friction and accelerate your transition.
+This comprehensive guide helps you migrate from Microsoft Playwright Testing to [Playwright Workspaces](https://aka.ms/pww/docs). It lays out common migration scenarios and provides step-by-step instructions for each to minimize friction and accelerate your transition.
 
 > **Note**: If you run into any issues, you can reach us directly at playwrighttesting@microsoft.com. If you have a support plan and need technical help, please create a support request in the Azure Portal.
 
