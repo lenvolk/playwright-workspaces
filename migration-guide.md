@@ -15,6 +15,10 @@ This comprehensive guide helps you migrate from Microsoft Playwright Testing to 
 8. [Summary of Major Changes](#summary-of-major-changes)  
 9. [References](#references)
 
+## How to Locate Your Microsoft Playwright Testing resources
+1. In the Azure Portal, search for **Playwright Testing**.
+2. Select **Playwright Testing (classic)**.
+3. The blade will list all your Microsoft Playwright Testing resources.
 
 ## Prerequisites: Common Setup Steps
 Here are the common setup steps you’ll want to complete for a Playwright Workspaces migration:
