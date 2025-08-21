@@ -1,5 +1,9 @@
 # Azure Playwright Workspaces Demo
 
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/yU2wtTsPF2A/0.jpg)](https://www.youtube.com/watch?v=yU2wtTsPF2A&t=252s)
+
+> 📺 **Watch the full demo video:** [Azure Playwright Workspaces Demo](https://www.youtube.com/watch?v=yU2wtTsPF2A&t=252s)
+
 🚀 **High-scale test automation demo** showcasing 1000+ parallel tests using Azure Playwright Workspaces.
 
 ## ✨ Demo Highlights
