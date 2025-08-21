@@ -4,6 +4,8 @@
 // npx playwright test
 // Let's go nuts and bump up workers
 // npx playwright test - workers=20
+// With Azure PlayWright 
+// npx playwright test - workers=40 --config=../playwright.service.config.ts
 
 
 import { test, expect } from '@playwright/test';
