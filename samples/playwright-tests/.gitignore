@@ -1,5 +1,68 @@
+# Dependencies
 node_modules/
+
+# Test Results & Reports
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# Environment Configuration
 .env
+.env.local
+.env.production
+.env.staging
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+
+# Debug Files
+debug-connection.js
+
+# Build & Distribution
+/build/
+/dist/
+/out/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Solution Files (Visual Studio)
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Azure & Cloud Specific
+.azure/
+
+# NPM
+.npm
+
+# Coverage Reports
+coverage/
+*.lcov
+
+# ESLint Cache
+.eslintcache
